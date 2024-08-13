@@ -9,5 +9,6 @@ Its main job is to store and present animal data, this would make your job so mu
   
 Useful links:
 * [About Us](https://ay2324s1-cs2113t-w11-2.github.io/tp/AboutUs.html)
+* [Demo Video](https://www.youtube.com/watch?v=ouKIavNNR5k)
 * [User Guide](https://ay2324s1-cs2113t-w11-2.github.io/tp/UserGuide.html)
 * [Developer Guide](https://ay2324s1-cs2113t-w11-2.github.io/tp/DeveloperGuide.html)
